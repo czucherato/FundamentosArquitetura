@@ -5,8 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="01 - Classe x Objeto\" />
-    <Folder Include="02 - Pilares OOP\" />
     <Folder Include="03 - Herança x Composição\" />
     <Folder Include="04 - Interface x Implementação\" />
   </ItemGroup>
