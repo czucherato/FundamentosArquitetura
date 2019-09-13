@@ -35,9 +35,9 @@ namespace ProjetoB
             TestePublico();
             TesteProtegido();
             TesteProtegidoInterno();
-            TesteInternal();
-            TestePrivadoProtegido();
-            TestePrivado();
+            //TesteInternal();
+            //TestePrivadoProtegido();
+            //TestePrivado();
         }
     }
 }
